@@ -1,0 +1,44 @@
+{
+  "bases": [
+    {
+      "арктична база": [
+        "photos\\arctic_base.jpg",
+        "1 снігохід\n16 ящиків\n1 червона мапа"
+      ],
+      "військова база": [
+        "photos\\desert_military_base.jpg",
+        "4 боти\n12 ящиків "
+      ],
+      "підводна лабораторія": [
+        "photos\\underwater_laboratory.jpg",
+        "6 боти\n15 ящиків"
+      ]
+    },
+
+    {
+      "мирне місто": [
+        "photos\\compound.png",
+        "Немає!"
+      ],
+      "місто бандитів": [
+        "photos\\bandit_town.png",
+        "Немає!"
+      ],
+      "космодром": [
+        "photos\\launch_site.jpg",
+        "10 ботів \n17 ящиків"
+      ]
+    },
+
+    {
+      "аеродром": [
+        "photos\\airfield.jpg",
+        "6 ботів \n24 ящиків\n1 червона мапа"
+      ],
+      "сміттєзвалище": [
+        "photos\\junkyard.jpg",
+        "6 ящиків"
+      ]
+    }
+  ]
+}
